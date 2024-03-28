@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>RCVS content style guide</title>
+    <link href="https://rcvsstyleguide.netlify.app/feed.xml" rel="self" />
+    <link href="https://rcvsstyleguide.netlify.app" />
+    <updated>2024-03-28T17:58:08+00:00</updated>
+    <author>
+        <name>RCVS</name>
+    </author>
+    <id>https://rcvsstyleguide.netlify.app</id>
+
+    <entry>
+        <title>Training: accessibility and inclusivity</title>
+        <author>
+            <name>RCVS</name>
+        </author>
+        <link href="https://rcvsstyleguide.netlify.app/training-accessibility-and-inclusivity/"/>
+        <id>https://rcvsstyleguide.netlify.app/training-accessibility-and-inclusivity/</id>
+
+        <updated>2024-03-28T14:02:18+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Accessibility and inclusivity are important because we want our content to reach the widest possible number of people and we don't want to exclude anyone.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Accessibility and inclusivity are important because we want our content to reach the widest possible number of people and we don't want to exclude anyone.</p>
+<p>Watch the video overview below, explore the <a href="https://rcvsstyleguide.netlify.app/training-accessibility-and-inclusivity/">accessibility and inclusivity section</a> yourself, then test your knowledge and understanding using our quiz.</p>
+<div class="post__iframe"><iframe loading="lazy" width="800" height="486" src="https://www.loom.com/embed/fdae0a5cdd6a4cb992b707af2ee8063b?sid=937be59f-30ba-40ac-8a84-63611bce6a17?hide_share=true&amp;hideEmbedTopBar=true&amp;hide_title=true&amp;hide_owner=true" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></div>
+<p>
+<script src="https://www.cognitoforms.com/f/seamless.js" data-key="qy42drzRrUCI_eFDfsNK3A" data-form="3"></script>
+</p>
+<hr>
+<h2>Training units</h2>
+<p>Have you completed our other content style training units?</p>
+<p><a href="https://rcvsstyle-staging.netlify.app/training-grammar-and-style/">Grammar and style</a></p>
+<p><a href="https://rcvsstyle-staging.netlify.app/grammar-and-style-quiz/">Voice and tone</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Training: grammar and style</title>
+        <author>
+            <name>RCVS</name>
+        </author>
+        <link href="https://rcvsstyleguide.netlify.app/training-grammar-and-style/"/>
+        <id>https://rcvsstyleguide.netlify.app/training-grammar-and-style/</id>
+
+        <updated>2024-03-28T14:01:02+00:00</updated>
+            <summary>
+                <![CDATA[
+                    It's time to test your knowledge of the RCVS content style guide. In the grammar and style section we'll ask you about: If you're unsure,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>It's time to test your knowledge of the RCVS content style guide. In the grammar and style section we'll ask you about:</p>
+<ul>
+<li>Abbreviations</li>
+<li>Capitalisation</li>
+<li>Dates and times</li>
+<li>Links, email addresses and web addresses<strong><br></strong></li>
+<li>Numbers</li>
+</ul>
+<p>If you're unsure, you'll find all the answers in <a href="https://vetscontentstyleguide.netlify.app/grammar-and-style/" target="_top">grammar and style</a>.</p>
+<p>Watch this video to get a quick overview of the section, have a browse around, and then test your knowledge using our quiz below.</p>
+<div class="post__iframe"><iframe loading="lazy" width="800" height="486" src="https://www.loom.com/embed/becd2f96b35e4f0c9fffcb58a0dee836?sid=0895389c-e587-4baa-98ff-9b4316cf20b2?hide_share=true&amp;hideEmbedTopBar=true&amp;hide_title=true&amp;hide_owner=true" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></div>
+<p>
+<script src="https://www.cognitoforms.com/f/seamless.js" data-key="qy42drzRrUCI_eFDfsNK3A" data-form="1"></script>
+</p>
+<hr>
+<h2>Training units</h2>
+<p>Have you completed our other content style training units?</p>
+<p><a href="https://rcvsstyle-staging.netlify.app/grammar-and-style-quiz/">Voice and tone</a></p>
+<p><a href="https://rcvsstyle-staging.netlify.app/training-accessibility-and-inclusivity/">Accessibility and inclusivity</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Training: voice and tone</title>
+        <author>
+            <name>RCVS</name>
+        </author>
+        <link href="https://rcvsstyleguide.netlify.app/grammar-and-style-quiz/"/>
+        <id>https://rcvsstyleguide.netlify.app/grammar-and-style-quiz/</id>
+
+        <updated>2024-03-28T12:54:33+00:00</updated>
+            <summary>
+                <![CDATA[
+                    It's time to test your knowledge of RCVS's voice and tone. If you're unsure, you'll find all the answers in the voice and tone section of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>It's time to test your knowledge of RCVS's voice and tone.</p>
+<p>If you're unsure, you'll find all the answers in the <a href="https://vetscontentstyleguide.netlify.app/voice-and-tone/" target="_top">voice and tone</a> section of the content style guide. </p>
+<p>Watch the video overview below, explore the section yourself, then test your knowledge and understanding using our quiz.</p>
+<div class="post__iframe"><iframe loading="lazy" width="800" height="486" src="https://www.loom.com/embed/14f29cb1a9eb4b0a8404c18125624a5a?sid=75e4577d-e1d9-4b30-9237-5192f8a96ccb?hide_share=true&amp;hideEmbedTopBar=true&amp;hide_title=true&amp;hide_owner=true" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></div>
+<p>
+<script src="https://www.cognitoforms.com/f/seamless.js" data-key="qy42drzRrUCI_eFDfsNK3A" data-form="2"></script>
+</p>
+<hr>
+<h2>Training units</h2>
+<p>Have you completed our other content style training units?</p>
+<p><a href="https://rcvsstyle-staging.netlify.app/training-grammar-and-style/">Grammar and style</a></p>
+<p><a href="https://rcvsstyle-staging.netlify.app/training-accessibility-and-inclusivity/">Accessibility and inclusivity</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Training: overview</title>
+        <author>
+            <name>RCVS</name>
+        </author>
+        <link href="https://rcvsstyleguide.netlify.app/training/"/>
+        <id>https://rcvsstyleguide.netlify.app/training/</id>
+
+        <updated>2024-01-03T17:15:03+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to the RCVS's bespoke content style training! Completing this training will give you the skills and know-how you need in order to consistently create&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Welcome to the RCVS's bespoke content style training!</p>
+<p>Completing this training will give you the skills and know-how you need in order to consistently create content in the RCVS style. It will give you familiarity with our content style and our content style guide. It will make sure that you know where to look for answers and how to ask for help if you can't find what you're looking for.</p>
+<div class="post__iframe"><iframe loading="lazy" width="800" height="486" src="https://www.loom.com/embed/f6cb144229a94c6fba033585b2933bb8?sid=46540b5b-3ade-4459-9131-ad1e5f5950be?hide_share=true&amp;hideEmbedTopBar=true&amp;hide_title=true&amp;hide_owner=true" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe></div>
+<p>To test your knowledge and understanding, complete these three units of training: watch the short videos and complete a quiz for each. Submit each one when you're done and we'll get a record that you've completed them.</p>
+<h2>Training units</h2>
+<p><a href="https://rcvsstyleguide.netlify.app/training-grammar-and-style/">Grammar and style</a></p>
+<p><a href="https://rcvsstyleguide.netlify.app/grammar-and-style-quiz/">Voice and tone</a></p>
+<p><a href="https://rcvsstyleguide.netlify.app/training-accessibility-and-inclusivity/">Accessibility and inclusivity</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Inclusive language</title>
+        <author>
+            <name>RCVS</name>
+        </author>
+        <link href="https://rcvsstyleguide.netlify.app/inclusive-language/"/>
+        <id>https://rcvsstyleguide.netlify.app/inclusive-language/</id>
+
+        <updated>2023-11-15T16:21:07+00:00</updated>
+            <summary>
+                <![CDATA[
+                    At the RCVS we create content that welcomes everyone, and takes care not to exclude anyone. That means being thoughtful and deliberate when we're writing&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>At the RCVS we create content that welcomes everyone, and takes care not to exclude anyone.</p>
+<p>That means being thoughtful and deliberate when we're writing about people and their identities.</p>
+<p>There are often diverse opinions about the best terms to use to refer to people, even within groups who share an identity. Here's how we use language sensitively to be inclusive in our content.</p>
+<p>For more detail on inclusive language, <a href="http://s3.amazonaws.com/s3.sumofus.org/images/SUMOFUS_PROGRESSIVE-STYLEGUIDE.pdf" target="_blank" rel="noopener noreferrer">A Progressive’s Style Guide</a> is a good source.</p>
+<h2><strong>Inclusive language principles</strong></h2>
+<h3><strong>Write for everyone</strong></h3>
+<p>We don't use words that may alienate, distress or oppress people. We don’t use jargon, technical language (without explaining it clearly), acronyms or uncommon idioms.</p>
+<h3><strong>Don't assume what is normal</strong></h3>
+<p>We don't all have the same background, values or experiences. Try not to define people by comparison with another group.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 49.9288%;"><strong>You could say</strong></td>
+<td style="width: 49.9288%;"><strong>Don't say</strong></td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">
+<p>Speakers of English as an additional language</p>
+<p>People whose first language is not English</p>
+<p>People living in [named country]</p>
+<p>People from [named countries]</p>
+</td>
+<td style="width: 49.9288%;">
+<p>Non-native English speakers</p>
+<p>Non-citizens</p>
+<p>illegal immigrants</p>
+<p>Non-British</p>
+<p>Non-white</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Impact matters more than intent</strong></h3>
+<p>It is not enough to <em>try</em> not to harm people, we must ensure we avoid harming people through inaccurate or inappropriate language.</p>
+<p class="msg msg--info">Tip: The intent behind our words is important, but it's not as important as the impact our words have on real people.</p>
+<h3><strong>Only include identity when it's relevant</strong></h3>
+<p>We only refer to someone's age, gender, ethnicity, migration status, class and other identity markers if it's relevant to the context of what we're writing about.</p>
+<p class="msg msg--success">Joan says, "I love working as a vet nurse."</p>
+<p class="msg msg--warning">Joan, 24, says, "I love working as a vet nurse."</p>
+<h3><strong>Think globally</strong></h3>
+<p>Not all our readers experience our content in the same way. Idioms, metaphors and jargon may be easy to read for a native English speaker, but challenging for someone who speaks English as an additional language.</p>
+<p>Some idioms don’t translate well from country to country.</p>
+<p class="msg msg--info">“Our team hit it for six” is a common saying in British English, which often uses cricket metaphors. People who aren't familiar with British English or cricket might find "Our team did an amazing job" easier to understand.</p>
+<h3><strong>Use person-first language</strong></h3>
+<p>We use person-first language wherever possible.</p>
+<p>Person-first language places the person first, then adds information like location, nationality, ethnicity, migration status, gender identity, sexual orientation and so on afterwards – only if it's relevant.</p>
+<p>To write person-first descriptions: </p>
+<ol>
+<li>Start with a person's name, pronoun, or description</li>
+<li>Add a verb like has/have</li>
+<li>End with information about them</li>
+</ol>
+<p>For example, Alinka has schizophrenia.</p>
+<p>Some people prefer to use identity-first language ("I am autistic" rather than "I have autism"). We explore these exceptions in more detail below.</p>
+<h3><strong>Ask people how they identify</strong></h3>
+<p>We ask the people we're writing about how they identify themselves, and take care to consider historical, political and cultural complexities.</p>
+<p>We listen to the words people use about themselves, and take our cues from them.</p>
+<p>We avoid describing people in terms of physical appearance, disability, age, sexuality, origin, race and religion unless it's relevant to the context.</p>
+<h3><strong>Be specific</strong></h3>
+<p>We name places, people and communities. If we are working with people in a region, country, town or other area, we name it.</p>
+<p class="msg msg--success">In the London suburbs</p>
+<p class="msg msg--warning">On the ground</p>
+<p class="msg msg--success">In the Midlands</p>
+<p class="msg msg--warning">In the field</p>
+<p>Rather than group people together under a label like "hard to reach," we name the reason why people need support. For example, because of discrimination.</p>
+<h2><strong>Ability and disability</strong></h2>
+<p>Every person is a whole person – no matter how they interact with the world. Focus on what they need to do, what tools they use, and avoid making assumptions. If a person’s situation, medical condition, illness or injury is relevant to the content, be as specific as possible. Don't add value judgements about their circumstances (for example, say "has multiple sclerosis", not "is afflicted with" or "suffers from").</p>
+<ul>
+<li>The word disabled is a description not a group of people. Use "disabled people" not "people with disabilities" or "the disabled" as the collective term.</li>
+<li>Avoid describing people as handicapped or confined to a wheelchair. The latter term describes a person only in relationship to a piece of equipment and is misleading, as wheelchairs can liberate people, allowing them to move about.</li>
+<li>Avoid terms that contribute to stigmas around disability or mental illness: crazy, dumb, lame, insane, psycho, schizophrenic or stupid. For example, don't use "crazy" or "mad" when you mean "wild" or "enthusiastic".</li>
+<li>Avoid describing people as mentally ill. Instead say someone has a mental health condition or mental health problems.</li>
+<li>Avoid terms that contribute to stigmas around sensory disabilities, such as "sanity check", "blind spot" or "tone deaf".</li>
+</ul>
+<p>This language is in line with the <a href="https://www.scope.org.uk/about-us/social-model-of-disability/" target="_blank" rel="noopener noreferrer">social model of disability</a> which says that people are disabled by barriers in society, not by their impairment or difference.</p>
+<p>Disability charity Scope has more <a href="https://www.scope.org.uk/campaigns/end-the-awkward/" target="_blank" rel="noopener noreferrer">helpful guidance</a> on language to use and to avoid.</p>
+<h3><strong>Person-first language</strong></h3>
+<p>Person-first language highlights that individuals have differences (such as disabilities) but that these do not need to define us.</p>
+<p>Person-first language is often the most empowering and accurate way to describe someone, but not everybody uses it.</p>
+<p>Some people prefer identity-first language (for example, some people prefer to say, "I am autistic" rather than, "I have autism"). Everybody is different, so we always ask people what they want.</p>
+<p>Ask people how they want to be described. Pay close attention to the language they use about themselves, and use it consistently.</p>
+<p class="msg msg--success">Asif has schizophrenia</p>
+<p class="msg msg--warning">Asif is schizophrenic</p>
+<p class="msg msg--success">Children with specific learning difficulties</p>
+<p class="msg msg--warning">Learning disabled children</p>
+<h2><strong>Age</strong></h2>
+<p>We only refer to someone’s age if it’s relevant to the context, for example, when talking about a minimum age requirement.</p>
+<p>Don’t use women or older relatives, for example, as a substitute for "novice" or "beginner."</p>
+<p class="msg msg--success">So simple a beginner can use it.</p>
+<p class="msg msg--warning">So simple your grandmother can use it.</p>
+<p>We prefer to say "older person" rather than "old" or "elderly."</p>
+<p>We don't use middle aged, OAP, old age pensioner, pensioner or senior.</p>
+<h2><strong>Agency</strong></h2>
+<p>We avoid language that frames marginalised communities as passive recipients of help.</p>
+<p class="msg msg--success">We work in partnership with local people to help them access quality veterinary care for their animals.</p>
+<p class="msg msg--warning">We help poor communities get the services they need.</p>
+<p>We talk about "support," "collaboration," "working together," "working alongside" and "working with" underserved communities, not "helping" or "giving to" them.</p>
+<p>We focus on the agency and autonomy of people and communities. For example, we might "work alongside community leaders who have identified what they need to flourish."</p>
+<p>We don't say that some people are inherently "hard to reach." This is a product of how social structures and services are designed, not the people themselves.</p>
+<p class="msg msg--success">People in rural areas</p>
+<p class="msg msg--warning">Hard to reach populations</p>
+<h2><strong>Gender and sexuality</strong></h2>
+<p>Make content gender neutral wherever possible, and strive to write in a <a href="http://www.ncte.org/positions/statements/genderfairuseoflang">gender-fair</a> way.</p>
+<p>If you're writing about a hypothetical person or if you're unsure of the person's pronouns, use "they" or "them" instead of "he/she" and "him/her." For example:</p>
+<p class="msg msg--success">"When the vet arrives they will examine the dog and take its temperature."</p>
+<p>Avoid guessing sex, gender identity, or sexual orientation. When in doubt, either reconsider the need to include this information or ask the person you’re referring to how they identify and what terms they prefer.</p>
+<ul>
+<li>Use "different sex" instead of opposite sex, and "all genders" instead of "both genders" or "opposite genders." This recognises gender as a spectrum, rather than a binary.</li>
+<li>Use descriptors of gender identity or sexual orientation as modifiers, not as nouns (for example, "transgender person", "cisgender person" or "lesbian woman").</li>
+<li>Avoid using "guys" as a way to refer to mixed-gender groups.</li>
+<li>Don’t make assumptions about marital or family relationships (for example, use "spouse" or "partner" instead of "husband" and "wife"; use "parent" instead of "mother" or "father").</li>
+<li>Avoid describing individuals in regards to their sexuality. Where it is essential to the meaning, consider what the individual has expressed their sexuality to be, and use their own terms. If you don’t know and still need to describe them use the term LGBTQ+ (Lesbian, Gay, Bisexual, Transgender, Queer, Plus).</li>
+</ul>
+<h3><strong>Gender identity</strong></h3>
+<p>When speaking about job positions and roles, use non-gendered titles.</p>
+<p>When using words for particular roles that are associated with gender, consider if you would describe someone not of the specified gender using that term – if you wouldn't, use a different term to describe that role. If at all possible use a gender-neutral term.</p>
+<p class="msg msg--success">chair, homemaker, spokesperson</p>
+<p class="msg msg--warning">chairman, chairwoman, housewife, househusband, spokesman, spokeswoman</p>
+<p>Avoid words and phrases that indicate gender bias, such as irrelevant descriptions of appearance. A good rule of thumb is that gender neutral terms tend to end "person," while gendered terms usually end with "man," "woman" or "ess."</p>
+<p>Be consistent about how you address people. People in authority are more likely to be referred to by their surname if they are a man, and by their first name if they are a woman. Avoid this by always using someone's full name on the first mention and then their surname after that.</p>
+<h3><strong>Transgender identity</strong></h3>
+<p>Describe someone who is transgender as a "transgender woman", "transgender man" (or other identities such as "non-binary person"). Avoid terms like "transwoman" or "transman" which imply that trans people are not men or women.</p>
+<p class="msg msg--success">Farah is transgender and a vet and educator.</p>
+<p class="msg msg--warning">Farah is a transwoman and a vet and educator.</p>
+<p>Transgender is an adjective, not a noun.</p>
+<p class="msg msg--success">Ryan is a transgender man.</p>
+<p class="msg msg--warning">Ryan is a transgender.</p>
+<h2><strong>Homelessness</strong></h2>
+<p>Person-first language shows that people are individuals and is often more accurate.</p>
+<p>Many people experience episodes of homelessness throughout their life, so it is incorrect to imply they are "always" without a home.</p>
+<p class="msg msg--success">People who are homeless, people without a home, people without housing, people experiencing homelessness</p>
+<p class="msg msg--warning">The homeless</p>
+<h2><strong>Nationality</strong></h2>
+<p>We only refer to people's nationality, country of origin, or their immigration status if it's relevant to the context.</p>
+<p>Try to avoid grouping people by nationality or making generalisations about people from a particular country.</p>
+<p>If you need to, use an adjective with “people.”</p>
+<p class="msg msg--success">German people</p>
+<p class="msg msg--warning">The Germans</p>
+<p>How you refer to the public is largely dependent on context. Feel free to choose from any of these words: people, the public or audiences.</p>
+<h2><strong>Race, ethnicity and religion</strong></h2>
+<p>We only refer to people's ethnic heritage or religion if it's relevant.</p>
+<p>Avoid using words, images or situations that reinforce racial, ethnic or religious stereotypes (even stereotypes that may appear to be positive).</p>
+<p>Avoid the term "non-white,<em>"</em> or other terms that treat whiteness as a default.</p>
+<p>Don’t make assumptions. Ask how people identify themselves, and be aware of complexities within racial, ethnic and religious identities. For example, not all Arabs are Muslim, and many nationalities and ethnicities include various religious practices and traditions.</p>
+<p>When referring to a person’s race or ethnicity, use adjectives, not nouns.</p>
+<p class="msg msg--success">A British Asian person</p>
+<p class="msg msg--warning">An Asian</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Accessibility</title>
+        <author>
+            <name>RCVS</name>
+        </author>
+        <link href="https://rcvsstyleguide.netlify.app/accessibility/"/>
+        <id>https://rcvsstyleguide.netlify.app/accessibility/</id>
+
+        <updated>2023-11-15T16:20:34+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Providing equal access to our content to everyone, no matter what their needs are, is the right thing to do. In the UK, 1 in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Providing equal access to our content to everyone, no matter what their needs are, is the right thing to do. In the UK, 1 in 5 people have a long-term illness or impairment, or are disabled. And most people will be temporarily or situationally impaired at some times, such as by a broken wrist, a headache, bright sunlight or a lack of headphones. We don’t want to exclude these people.</p>
+<p>Accessibility also benefits everyone. The principles of accessible content are closly aligned with best practice in user experience. All users appreciate things being easy to understand and action.</p>
+<h2>Assistive technology</h2>
+<p>Bear in mind that some people, for all sorts of reasons, may be using screen readers or other assistive technology to consume our content. To ensure our content works for them, we aim to meet – as a minimum – the requirements of <a href="https://www.w3.org/WAI/WCAG2AA-Conformance" target="_blank" rel="noopener noreferrer">WCAG 2.1 Level AA</a>. This means meeting all the requirements that are Level A and Level AA.</p>
+<h2>Images</h2>
+<h3>Alt text</h3>
+<p>Alt text, sometimes referred to as alt tags or alt descriptions, is the written copy that appears in place of an image on a webpage if the image doesn’t load on the user’s screen. It tells people what’s contained in the image, is vital for screen readers and helps search engines crawl and rank your website.</p>
+<p>Add alt text to images, including infographics, so that anyone who can’t see the image can still understand and follow the content.</p>
+<p>For decorative images that are included for purely aesthetic reasons and don’t add meaning or context to the content, use an empty alt tag (alt=““) in order not to add audio clutter for those using screen readers.</p>
+<p>This <a href="https://www.w3.org/WAI/tutorials/images/decision-tree/" target="_blank" rel="noopener">decision tree</a> will help you decide whether or not you need to add alt text to an image.</p>
+<p>Your alt text should be specific and descriptive. Let’s look at good and bad versions of alt text for the below image.</p>
+<figure class="post__image"><img loading="lazy"  src="https://rcvsstyleguide.netlify.app/media/posts/16/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC80Y1wvMTk4NDA0XC9wcm9qZWN0c1wvMjYwOTM1XC9hc3NldHNcL2U4XC81MDQwNzI4XC9mN2U0ZDc5YTMxYjljYzBhNjEzNzRiYjA5NjU3OWYzMi0xNjA5NzA4MTczLmpwZyJ9_frontify_nGWu6C9mhKSspiGAQCQrym5GLNqbqu84Sy4ox3CPFVY.jpeg" alt="" width="1500" height="1001" sizes="(max-width: 749px) 100vw, 749px" srcset="https://rcvsstyleguide.netlify.app/media/posts/16/responsive/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC80Y1wvMTk4NDA0XC9wcm9qZWN0c1wvMjYwOTM1XC9hc3NldHNcL2U4XC81MDQwNzI4XC9mN2U0ZDc5YTMxYjljYzBhNjEzNzRiYjA5NjU3OWYzMi0xNjA5NzA4MTczLmpwZyJ9_frontify_nGWu6C9mhKSspiGAQCQrym5GLNqbqu84Sy4ox3CPFVY-xs.jpeg 300w ,https://rcvsstyleguide.netlify.app/media/posts/16/responsive/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC80Y1wvMTk4NDA0XC9wcm9qZWN0c1wvMjYwOTM1XC9hc3NldHNcL2U4XC81MDQwNzI4XC9mN2U0ZDc5YTMxYjljYzBhNjEzNzRiYjA5NjU3OWYzMi0xNjA5NzA4MTczLmpwZyJ9_frontify_nGWu6C9mhKSspiGAQCQrym5GLNqbqu84Sy4ox3CPFVY-sm.jpeg 480w ,https://rcvsstyleguide.netlify.app/media/posts/16/responsive/eyJwYXRoIjoiZnJvbnRpZnlcL2FjY291bnRzXC80Y1wvMTk4NDA0XC9wcm9qZWN0c1wvMjYwOTM1XC9hc3NldHNcL2U4XC81MDQwNzI4XC9mN2U0ZDc5YTMxYjljYzBhNjEzNzRiYjA5NjU3OWYzMi0xNjA5NzA4MTczLmpwZyJ9_frontify_nGWu6C9mhKSspiGAQCQrym5GLNqbqu84Sy4ox3CPFVY-md.jpeg 749w"></figure>
+<p class="msg msg--success">Three vet students from the Department of Veterinary Medicine at the University of Cambridge assessing a horse during their field work.</p>
+<p class="msg msg--warning">A group of women in front of a horse next to a blue barn.</p>
+<p>Including details about where the vet students are from will give the image more meaning and depth and are specifics that Google would need to properly index the image if it’s in a blog post about students at the University of Cambridge.</p>
+<p>The poor example is not descriptive enough and does not help identify who, where, and why.</p>
+<h3>Text in images</h3>
+<p>Avoid using text in images. Text should be HTML whenever possible.</p>
+<h2>Captions and transcripts for audio and visual</h2>
+<p>When you use an image or a video you should always include a plain language description of the content if it is essential to understanding.</p>
+<p>Make sure you provide a captions file for pre-recorded video that has speech or other audio. Auto-generated Youtube or Vimeo captions aren’t acceptable in their raw state. Wherever possible, include a full transcript so people with a visual impairment can access the content equally.</p>
+<p>When using audio content, provide a transcript to allow those with auditory impairments to access the content.</p>
+<p>More detailed guidance can be found in <a href="https://www.w3.org/WAI/media/av/planning/#video-checklists" target="_blank" rel="noopener">Planning Audio and Video Media</a> on the Web Accessibility Initiative.</p>
+<h2>Hyperlinks</h2>
+<p>Link text should make sense even without the link. We don't use “the page”, “click here” or “click this link”.</p>
+<p>Add hyperlinks to descriptive text about the information users will find if they follow the link.</p>
+<p>If clicking on a link will open a PDF or other document, or start a download, make that clear to the user.</p>
+<h2>Directional language</h2>
+<p>Avoid directional language. Examples of directional language include phrases such as “comment below”. Often this assumes the reader is not using assistive technology to consume content.</p>
+<p>Rather than using directional language, use the following tactics:</p>
+<ol>
+<li>Use headings and whitespace to create visual hierarchy and help guide the user.</li>
+<li>Group related information, because people assume that things that are next to each other are connected.</li>
+<li>Hyperlink keywords that tell you what’s on the other side of the link.</li>
+</ol>
+<h2>Readability</h2>
+<p>As a general rule of thumb, long sentences that contain a lot of words are harder to read than shorter sentences.</p>
+<p>Similarly, words that have multiple syllables are harder to read than shorter words.</p>
+<p>The <a href="https://hemingwayapp.com/" target="_blank" rel="noopener noreferrer">Hemingway app</a> is a helpful free online tool for checking how readable, and therefore accessible, your writing is.</p>
+<h2>Tables</h2>
+<p>Tables can be useful for displaying tabular data in a digestible way. Don’t use tables to present lists or other content in a certain layout.</p>
+<p>If tables are used inappropriately, they can be really bad for accessibility. Assistive technology, such as screen readers won’t be able to associate the table contents with the headings, so people accessing the content with these tools, won’t be able to understand the information.</p>
+<p>Before you add a table to a web page, consider if there’s a more accessible way that you can present that information, for example as a bulleted list.</p>
+<p>In order to be accessible tables need HTML markup that indicates header cells and data cells and defines their relationship.</p>
+<h2>Structured content</h2>
+<p>Page structure helps guide users to valuable information.</p>
+<p>Apply headings (H1s, H2s and H3s) in nested order, so that H2s are related to the H1, and H3s are related to H2s.</p>
+<ul>
+<li>H1 (Page topic) Introductory text</li>
+<li>H2 (Subtopic) One idea</li>
+<li>H3 (Subtopic of previous) One idea</li>
+</ul>
+<p>All headings should be in sentence case and should ideally be no more than five words.</p>
+<p><em>This guidance draws on the <a href="https://content-guide.18f.gov/our-style/" target="_blank" rel="noopener noreferrer">18F style guide</a> and the <a href="https://service-manual.nhs.uk/content" target="_blank" rel="noopener noreferrer">NHS content style guide</a>.</em></p>
+<p>Link text should make sense even without the link. We don't use 'the page', 'click here' or 'click this link' to describe links.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Accessibility and inclusivity</title>
+        <author>
+            <name>RCVS</name>
+        </author>
+        <link href="https://rcvsstyleguide.netlify.app/accessibility-and-inclusivity/"/>
+        <id>https://rcvsstyleguide.netlify.app/accessibility-and-inclusivity/</id>
+
+        <updated>2023-11-15T16:20:22+00:00</updated>
+            <summary>
+                <![CDATA[
+                    The accessibility section will help you understand best practices for creating content that works for everyone in our audience. Accessibility Inclusive language
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The accessibility section will help you understand best practices for creating content that works for everyone in our audience.</p>
+<p><a href="https://rcvsstyleguide.netlify.app/accessibility/">Accessibility</a></p>
+<p><a href="https://rcvsstyleguide.netlify.app/inclusive-language/">Inclusive language</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Quotes</title>
+        <author>
+            <name>RCVS</name>
+        </author>
+        <link href="https://rcvsstyleguide.netlify.app/quotes/"/>
+        <id>https://rcvsstyleguide.netlify.app/quotes/</id>
+
+        <updated>2023-11-15T16:19:41+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Quotation marks Where a quote is more than one paragraph, each paragraph must start with a quotation mark but only the final paragraph should end&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Quotation marks</h2>
+<p>Where a quote is more than one paragraph, each paragraph must start with a quotation mark but  only the final paragraph should end in one:</p>
+<p class="msg msg--success">Dr Sue Paterson FRCVS (pictured), RCVS President, said: <br><br>“Despite leaving the RCVS over 30 years ago I know that Alastair still commanded a great deal of respect within the professions and the College, having overseen a quarter century of both change and continuity within the veterinary sector.  <br><br>“Interestingly, his time at the College was bookended by two iterations of the Veterinary Surgeons Act – the original 1966 bill and then the significant 1991 amendment that formally recognised the role of veterinary nursing in law and introduced Schedule 3 and its exemptions.”</p>
+<p class="msg msg--warning">Dr Sue Paterson FRCVS (pictured), RCVS President, said: <br><br>“Despite leaving the RCVS over 30 years ago I know that Alastair still commanded a great deal of respect within the professions and the College, having overseen a quarter century of both change and continuity within the veterinary sector.”<br><br>“Interestingly, his time at the College was bookended by two iterations of the Veterinary Surgeons Act – the original 1966 bill and then the significant 1991 amendment that formally recognised the role of veterinary nursing in law and introduced Schedule 3 and its exemptions.</p>
+<h2>Double or single quotes</h2>
+<p>Use double quotes at the start and end of a quoted section, and single quotes for quoted words  within that section. Place full stops and commas inside the quotes for a complete quoted sentence, otherwise they should be placed outside:</p>
+<p class="msg msg--success">"Anna said: 'Your style guide needs updating,' and I said: 'I agree.' "</p>
+<p class="msg msg--success">"Anna said updating the guide was 'a difficult and time-consuming task'."</p>
+<p class="msg msg--warning">"Anna said updating the guide was 'a difficult and time-consuming task.'"</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Punctuation</title>
+        <author>
+            <name>RCVS</name>
+        </author>
+        <link href="https://rcvsstyleguide.netlify.app/punctuation/"/>
+        <id>https://rcvsstyleguide.netlify.app/punctuation/</id>
+
+        <updated>2023-11-15T16:18:32+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Ampersands Use sparingly, and only if they are part of a title or name (”Johnson &amp; Johnson” i.e.). Otherwise, spell out “and”, even in headings.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2><strong>Ampersands</strong></h2>
+<p>Use sparingly, and only if they are part of a title or name (”Johnson &amp; Johnson” i.e.). Otherwise, spell out “and”, even in headings.</p>
+<h2><strong>Apostrophes</strong></h2>
+<ol>
+<li>Use these to show the possessive in the following instances:
+<ul>
+<li>Single nouns (RCVS’s approach, the dog’s harness) – the only exception is the possessive form of ‘it’ which has no apostrophe (‘the horse is eating its hay’)</li>
+<li>Plural nouns (dogs' harnesses, women's voices, people's republic). Nouns in phrases such as collector's item, cow's milk, goat's cheese or writer's cramp are treated as singular</li>
+<li>Words and names which end in s (Jones' book)</li>
+</ul>
+</li>
+<li>Use to indicate a missing letter or letters (can't, we'd, it's, you're).</li>
+<li>Use in phrases such as one hour's time, 12 years' imprisonment and six weeks' holiday where the time period modifies the noun.</li>
+</ol>
+<p class="msg msg--info">Apostrophes do not make nouns plural.</p>
+<ul>
+<li>10 monkeys, <strong>not</strong> 10 monkey’s</li>
+<li>five NGOs, <strong>not</strong> five NGO's</li>
+<li>FAQs <strong>not</strong> FAQ's</li>
+</ul>
+<h2><strong>Bullet points</strong></h2>
+<p>These are excellent for summarising points and for breaking up text to make it skimmable. Read more about how we use bullet points in <a href="https://rcvsstyleguide.netlify.app/lists/">lists</a>.</p>
+<h2><strong>Exclamation marks</strong></h2>
+<p>Use sparingly! These tend to denote an informal tone, which may be okay for email, but it doesn’t always translate well to websites.</p>
+<p class="msg msg--success">“We see a huge variety of Australian wildlife – all manner of feathered, furry and scaled creatures.”</p>
+<p class="msg msg--warning">“We see a huge variety of Australian wildlife – all manner of feathered, furry and scaled creatures!”</p>
+<p>However, when communicating sounds or something with a lot of feeling, exclamation marks can be quite effective</p>
+<p class="msg msg--success">…treating snake bites is a regular occurrence!</p>
+<h2><strong>Hyphens</strong></h2>
+<p>Use them:</p>
+<ul>
+<li>To form short compound adjectives and where there is ambiguity</li>
+</ul>
+<p class="msg msg--success">RVCS-registered vet</p>
+<p>RCVS registered vet</p>
+<ul>
+<li>With short and common adverbs (hard-working animal, much-­loved donkey).</li>
+</ul>
+<p class="msg msg--success">Hard-working nurse</p>
+<p class="msg msg--warning">Hard working nurse</p>
+<p>Don't use them:</p>
+<ul>
+<li>With most compound adjectives where the meaning is clear and unambiguous</li>
+</ul>
+<p class="msg msg--success">Civil rights movement</p>
+<p class="msg msg--warning">Civil-rights movement</p>
+<ul>
+<li>After adverbs ending in ly</li>
+</ul>
+<p class="msg msg--success">Genetically modified food</p>
+<p class="msg msg--warning">Genetically-modified food</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Numbers</title>
+        <author>
+            <name>RCVS</name>
+        </author>
+        <link href="https://rcvsstyleguide.netlify.app/numbers/"/>
+        <id>https://rcvsstyleguide.netlify.app/numbers/</id>
+
+        <updated>2023-11-15T16:18:14+00:00</updated>
+            <summary>
+                <![CDATA[
+                    In text, numbers one to nine should be written as words. Numbers above nine should be written as numerals: Working for the RCVS, you get&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In text, numbers one to nine should be written as words. Numbers above nine should be written  as numerals:</p>
+<p class="msg msg--success">Working for the RCVS, you get up to 25 days’ annual leave each year.</p>
+<p class="msg msg--success">You can carry over a maximum of five days’ annual leave.</p>
+<p class="msg msg--success">The annual CPD hourly targets are 35 hours for veterinary surgeons and 15 hours for veterinary nurses which support the need for every vet and vet nurse to undertake regular and relevant CPD.</p>
+<p><strong>Note: this doesn’t apply to currency or dates, or labels such as page 5, room 9.</strong></p>
+<p>Avoid beginning sentences with digits. Either reword it or write the number in full:</p>
+<p class="msg msg--success">Twenty-five million people live below the poverty line.</p>
+<p class="msg msg--success">Around 25 million people live below the poverty line.</p>
+<p class="msg msg--warning">25 million people live below the poverty line.</p>
+<h3>Million/billion</h3>
+<p>Write million/billion in text when referring to animals or people: one million animals, 23 million  people.</p>
+<p>Abbreviate to m/bn for:</p>
+<ul>
+<li>Sums of money: £10m/£10bn</li>
+<li>Inanimate objects: 45m/45bn tonnes of coal</li>
+<li>Units: 30m/bn doses of vaccine</li>
+<li>Headlines</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
