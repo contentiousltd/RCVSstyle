@@ -3,7 +3,7 @@
     <title>RCVS content style guide</title>
     <link href="https://rcvsstyleguide.netlify.app/feed.xml" rel="self" />
     <link href="https://rcvsstyleguide.netlify.app" />
-    <updated>2024-03-28T17:58:08+00:00</updated>
+    <updated>2024-03-28T21:00:53+00:00</updated>
     <author>
         <name>RCVS</name>
     </author>
@@ -312,12 +312,12 @@
         <updated>2023-11-15T16:20:34+00:00</updated>
             <summary>
                 <![CDATA[
-                    Providing equal access to our content to everyone, no matter what their needs are, is the right thing to do. In the UK, 1 in&hellip;
+                    Providing equal access to our content to everyone, no matter what their needs are, is the right thing to do. In the UK, one in&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Providing equal access to our content to everyone, no matter what their needs are, is the right thing to do. In the UK, 1 in 5 people have a long-term illness or impairment, or are disabled. And most people will be temporarily or situationally impaired at some times, such as by a broken wrist, a headache, bright sunlight or a lack of headphones. We don’t want to exclude these people.</p>
+                <p>Providing equal access to our content to everyone, no matter what their needs are, is the right thing to do. In the UK, one in five people have a long-term illness or impairment, or are disabled. And most people will be temporarily or situationally impaired at some times, such as by a broken wrist, a headache, bright sunlight or a lack of headphones. We don’t want to exclude these people.</p>
 <p>Accessibility also benefits everyone. The principles of accessible content are closly aligned with best practice in user experience. All users appreciate things being easy to understand and action.</p>
 <h2>Assistive technology</h2>
 <p>Bear in mind that some people, for all sorts of reasons, may be using screen readers or other assistive technology to consume our content. To ensure our content works for them, we aim to meet – as a minimum – the requirements of <a href="https://www.w3.org/WAI/WCAG2AA-Conformance" target="_blank" rel="noopener noreferrer">WCAG 2.1 Level AA</a>. This means meeting all the requirements that are Level A and Level AA.</p>
